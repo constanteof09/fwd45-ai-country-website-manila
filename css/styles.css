@@ -1048,7 +1048,7 @@ main:focus {
 .credits-grid {
   display: grid;
   gap: 1.5rem;
-  align-items: start;
+  align-items: stretch;
 }
 
 .credit-card {
