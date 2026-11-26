@@ -1,0 +1,9 @@
+# Dependencies & build tools
+node_modules/
+tools/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
